@@ -140,17 +140,23 @@ The **Teaching Council** confirmed EcoTeach certificates can serve as evidence o
 
 ## 📁 Repository Structure
 
-Phase-1-Analytics-Live/
-├── notebooks/        ← Python Jupyter notebooks
-├── r-analysis/       ← R scripts and chart outputs
-├── powerbi/          ← Power BI dashboard files
-├── tableau/          ← Tableau dashboard file
-└── data/             ← Original and cleaned datasets
+### Phase 1 — Analytics Live
 
-Phase-2-Commercialisation-Biodiversity/
-├── energy/           ← Energy module content
-├── biodiversity/     ← Biodiversity module content
-└── badges/           ← Certificate and badge images
+| Folder | Contents |
+|--------|----------|
+| notebooks | Python Jupyter notebooks |
+| r-analysis | R scripts and chart outputs |
+| powerbi | Power BI dashboard files |
+| tableau | Tableau dashboard file |
+| data | Original and cleaned datasets |
+
+### Phase 2 — Commercialisation and Biodiversity
+
+| Folder | Contents |
+|--------|----------|
+| energy | Energy module content |
+| biodiversity | Biodiversity module content |
+| badges | Certificate and badge images |
 
 ## 👩‍💻 Contribution
 
