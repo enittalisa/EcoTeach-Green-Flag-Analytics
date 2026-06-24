@@ -10,7 +10,7 @@ EcoTeach is a data-driven micro-credential platform developed as part of the MSc
 
 **Phase 1 — Analytics Live:** Python data analysis, R statistical analysis, Power BI dashboards, Tableau real-time dashboard, and Moodle course design
 
-**Phase 2 — BCP:** Biodiversity module, advanced Python analysis, gamification, commercialisation planning, and platform refinement. Two groups collaborated on this phase.
+**Phase 2 — Commercialisation and Biodiversity:** Addition of Biodiversity module, advanced Python analysis (BERTopic, Prophet), gamification, commercialisation planning, and platform refinement. Two groups collaborated on this phase.
 
 ---
 
@@ -138,10 +138,22 @@ The **Teaching Council** confirmed EcoTeach certificates can serve as evidence o
 
 ---
 
+## 📁 Repository Structure
+
+Phase-1-Analytics-Live/
+├── notebooks/        ← Python Jupyter notebooks
+├── r-analysis/       ← R scripts and chart outputs
+├── powerbi/          ← Power BI dashboard files
+├── tableau/          ← Tableau dashboard file
+└── data/             ← Original and cleaned datasets
+
+Phase-2-Commercialisation-Biodiversity/
+├── energy/           ← Energy module content
+├── biodiversity/     ← Biodiversity module content
+└── badges/           ← Certificate and badge images
+
 ## 👩‍💻 Contribution
 
 Group project completed as part of MSc Business Analytics, Maynooth University (2024–2025)
 
 **Enitta Lisa Siby** | Student ID: 24253013
-
-
