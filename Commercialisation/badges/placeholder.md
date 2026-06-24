@@ -1,0 +1,1 @@
+Certificate and badge images
